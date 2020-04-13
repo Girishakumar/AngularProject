@@ -10,3 +10,4 @@ MYSQL
 Finally:
 Java
 Angular   
+Javascript
