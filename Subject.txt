@@ -4,3 +4,7 @@ Java
 Angular
 Javascript 
 MYSQL
+
+Low: 
+PHP
+AJAX
