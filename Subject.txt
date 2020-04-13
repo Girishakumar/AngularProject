@@ -5,6 +5,13 @@ Angular
 Javascript 
 MYSQL
 
+
 Low: 
 PHP
 AJAX
+
+
+Finally:
+Java
+Angular   
+Javascript
