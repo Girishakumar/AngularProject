@@ -6,6 +6,10 @@ Javascript
 MYSQL
 
 
+Low: 
+PHP
+AJAX
+
 
 Finally:
 Java
