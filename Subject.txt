@@ -9,4 +9,4 @@ MYSQL
 
 Finally:
 Java
-Angular 
+Angular   
